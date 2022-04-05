@@ -30,7 +30,9 @@ Therefore I estimate the experience in commercial programming as very small.
 
 I want to become a professional software architect.
 
-## For this I lack experience in commercial programming - which is what I'm trying to get now.
+For this I lack experience in commercial programming - which is what I'm trying to get now.
+
+---
 
 ### Skiils:
 
@@ -70,6 +72,10 @@ export const shareCalculation = (sourceList) => {
 ---
 
 ### Experience:
+
+- Programmer - 1 year
+- System administrator - 6 years
+- Management experience from team leader to IT Director - 10 years
 
 ---
 
